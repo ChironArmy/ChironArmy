@@ -120,7 +120,6 @@ I'm always eager to connect with fellow cybersecurity enthusiasts, students, and
 
 ## 📊 GitHub Stats
 
-(this is currently broken!!)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChironArmy&show_icons=true&theme=dark)
 
 ## 💭 A Bit More About Me
